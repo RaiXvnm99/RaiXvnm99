@@ -1,0 +1,42 @@
+name: Generate Contribution Animations
+
+on:
+  schedule:
+    # Jalan tiap hari jam 00:00 UTC (jam 07:00 WIB)
+    - cron: '0 0 * * *'
+  workflow_dispatch: {} # bisa di-trigger manual dari tab Actions
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      # Snake nulis outputnya sendiri ke folder dist/
+      - name: Generate Snake SVG (light & dark)
+        uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: RaiXvnm99
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+
+      # Pac-Man dan Galaga sama-sama dari action ini, jalan dalam satu step,
+      # 'games' dipisah koma jadi keduanya digenerate bareng ke folder dist/ yang sama
+      - name: Generate Pac-Man & Galaga SVG
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: RaiXvnm99
+          games: 'pacman,galaga'
+          hide_month_labels: 'false'
+
+      # Push SEKALI setelah semua file kekumpul di dist/, biar gak saling overwrite
+      - name: Push semua hasil ke branch output
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
