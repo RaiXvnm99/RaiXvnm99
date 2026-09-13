@@ -1,114 +1,159 @@
 <div align="center">
 
-# Raihan Nur Adhani
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6366F1&height=180&section=header&text=Raihan%20Nur%20Adhani&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Next.js+%26+TypeScript+Enthusiast;System+Design+%26+Cloud+Learner" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=560&lines=Next.js+%26+TypeScript+Enthusiast;System+Design+%26+Cloud+Learner;Open+for+Freelance+%26+Remote+Work" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RaiXvnm99&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-</p>
+<br/>
 
----
+<img src="https://komarev.com/ghpvc/?username=RaiXvnm99&label=Profile+Views&color=6366F1&style=for-the-badge" alt="Profile Views" />
 
-### Tentang Gue
+</div>
 
-Gue mulai ngoding dari rasa penasaran, dan sekarang jadi kerjaan sehari-hari. Fokus gue bikin web yang cepat, rapi, dan gak bikin user bingung. Kebanyakan gue pakai Next.js dan TypeScript, tapi gue juga nyaman kerja pakai stack lain kalau project-nya butuh.
+<br/>
 
-Sekarang gue lagi ngerjain beberapa side project sambil belajar system design dan cloud. Kadang gue nulis di blog kalau ada hal menarik yang gue temuin pas ngoding. Kalau lagi gak ngoding, biasanya gue baca dokumentasi atau ngulik hal baru yang belum pernah gue coba.
+## Tentang Gue
+
+Gue mulai ngoding dari rasa penasaran, dan sekarang jadi kerjaan sehari-hari. Fokus gue bikin web yang cepat, rapi, dan gak bikin user bingung. Kebanyakan gue pakai **Next.js** dan **TypeScript**, tapi gue juga nyaman kerja pakai stack lain kalau project-nya butuh.
+
+Sekarang gue lagi ngerjain beberapa side project sambil belajar **system design** dan **cloud**. Kadang gue nulis blog kalau ada hal menarik yang gue temuin pas ngoding.
 
 Gue terbuka buat freelance, remote work, atau sekedar ngobrol soal project. Kalau ada yang mau didiskusikan, langsung chat aja.
 
----
+<br/>
 
-### Yang Gue Pakai Sehari-hari
+## Tech Stack
 
-<table align="center" width="100%">
+<table align="center" border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td align="center" colspan="7" width="100%"><b>Frontend</b></td>
+<td valign="top" width="50%">
+
+**Frontend**
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+
+</td>
+<td valign="top" width="50%">
+
+**Backend**
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+</td>
 </tr>
 <tr>
-<td align="center" width="14%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" /><br><sub><b>HTML5</b></sub></td>
-<td align="center" width="14%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" /><br><sub><b>CSS3</b></sub></td>
-<td align="center" width="14%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" /><br><sub><b>JavaScript</b></sub></td>
-<td align="center" width="14%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" /><br><sub><b>TypeScript</b></sub></td>
-<td align="center" width="14%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" /><br><sub><b>React</b></sub></td>
-<td align="center" width="14%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" /><br><sub><b>Next.js</b></sub></td>
-<td align="center" width="14%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" /><br><sub><b>Tailwind</b></sub></td>
-</tr>
-<tr>
-<td align="center" colspan="7" width="100%"><b>Backend</b></td>
-</tr>
-<tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" /><br><sub><b>Node.js</b></sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" /><br><sub><b>Express</b></sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" /><br><sub><b>Python</b></sub></td>
-</tr>
-<tr>
-<td align="center" colspan="7" width="100%"><b>Database</b></td>
-</tr>
-<tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" /><br><sub><b>PostgreSQL</b></sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" /><br><sub><b>MongoDB</b></sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="48" height="48" /><br><sub><b>Supabase</b></sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="48" height="48" /><br><sub><b>Redis</b></sub></td>
-</tr>
-<tr>
-<td align="center" colspan="7" width="100%"><b>Tools dan DevOps</b></td>
-</tr>
-<tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" /><br><sub><b>Docker</b></sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" /><br><sub><b>Git</b></sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" /><br><sub><b>GitHub</b></sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="48" height="48" /><br><sub><b>Vercel</b></sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" /><br><sub><b>AWS</b></sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="48" height="48" /><br><sub><b>Nginx</b></sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" /><br><sub><b>Linux</b></sub></td>
+<td valign="top" width="50%">
+
+**Database**
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+
+</td>
+<td valign="top" width="50%">
+
+**Tools & DevOps**
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+
+</td>
 </tr>
 </table>
 
----
+<br/>
 
-### Kontribusi (Game)
+## GitHub Stats
 
-**Pac-Man**
+<div align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RaiXvnm99/RaiXvnm99/output/pacman-contribution-graph.svg" alt="Pacman Animation" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=RaiXvnm99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&card_width=440" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RaiXvnm99&theme=tokyonight&hide_border=true&card_width=440" height="165" />
 
-**Snake**
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RaiXvnm99/RaiXvnm99/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</p>
-
----
-
-### Kontak
-
-Bisa lewat salah satu di bawah ini. Gue biasanya balas cepat.
-
-<p align="center">
-  <a href="https://instagram.com/oxyx_09" title="Instagram">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="44" height="44" alt="Instagram" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://tiktok.com/@xvnm__" title="TikTok">
-    <img src="https://cdn.simpleicons.org/tiktok/FFFFFF" width="44" height="44" alt="TikTok" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:kg390396@gmail.com" title="Gmail">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="44" height="44" alt="Gmail" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://wa.me/6283822844100" title="WhatsApp">
-    <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="44" height="44" alt="WhatsApp" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>Terima kasih udah mampir. Kalau ada project atau cuma mau ngobrol soal web, jangan ragu buat chat.</i>
-</p>
 </div>
+
+<br/>
+
+## Kontribusi
+
+<div align="center">
+
+<details open>
+<summary><b>Pac-Man</b></summary>
+<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RaiXvnm99/RaiXvnm99/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RaiXvnm99/RaiXvnm99/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/RaiXvnm99/RaiXvnm99/output/pacman-contribution-graph.svg" width="100%">
+</picture>
+</details>
+
+<br/>
+
+<details>
+<summary><b>Galaga</b></summary>
+<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RaiXvnm99/RaiXvnm99/output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RaiXvnm99/RaiXvnm99/output/galaga-contribution-graph.svg">
+  <img alt="Galaga contribution graph" src="https://raw.githubusercontent.com/RaiXvnm99/RaiXvnm99/output/galaga-contribution-graph.svg" width="100%">
+</picture>
+</details>
+
+<br/>
+
+<details>
+<summary><b>Snake</b></summary>
+<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RaiXvnm99/RaiXvnm99/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RaiXvnm99/RaiXvnm99/output/snake.svg">
+  <img alt="Snake contribution graph" src="https://raw.githubusercontent.com/RaiXvnm99/RaiXvnm99/output/snake.svg" width="100%">
+</picture>
+</details>
+
+</div>
+
+<br/>
+
+## Kontak
+
+<div align="center">
+
+<a href="https://instagram.com/oxyx_09">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://tiktok.com/@xvnm__">
+  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+</a>
+<a href="mailto:kg390396@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://wa.me/6283822844100">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+<i>Terima kasih udah mampir. Kalau ada project atau cuma mau ngobrol soal web, jangan ragu buat chat.</i>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:36BCF7&height=100&section=footer" width="100%" />
