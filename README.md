@@ -65,27 +65,10 @@ Gue terbuka buat freelance, remote work, atau sekedar ngobrol soal project. Kala
 
 ---
 
-### Statistik GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RaiXvnm99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaiXvnm99&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaiXvnm99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="60%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaiXvnm99&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
-</p>
-
----
-
 ### Kontribusi (Snake Animation)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RaiXvnm99/RaiXvnm99/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/RaiXvnm99/RaiXvnm99/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
