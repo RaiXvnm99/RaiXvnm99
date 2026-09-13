@@ -13,24 +13,34 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 20
     steps:
-      # Snake nulis outputnya sendiri ke folder dist/
+      # Snake jalan lewat Docker container milik action ini sendiri, jadi folder
+      # outputnya dikasih ownership beda dari runner. Makanya ditulis ke folder
+      # terpisah (dist-snake/), bukan langsung ke dist/, biar gak bentrok permission
+      # dengan step Pac-Man/Galaga yang nulis sebagai user runner biasa.
       - name: Generate Snake SVG (light & dark)
         uses: Platane/snk@v3
         id: snake-gif
         with:
           github_user_name: RaiXvnm99
           outputs: |
-            dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark
+            dist-snake/snake.svg
+            dist-snake/snake-dark.svg?palette=github-dark
 
       # Pac-Man dan Galaga sama-sama dari action ini, jalan dalam satu step,
-      # 'games' dipisah koma jadi keduanya digenerate bareng ke folder dist/ yang sama
+      # 'games' dipisah koma jadi keduanya digenerate bareng
       - name: Generate Pac-Man & Galaga SVG
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: RaiXvnm99
           games: 'pacman,galaga'
           hide_month_labels: 'false'
+
+      # Gabungkan semua SVG ke satu folder dist/ sebagai user runner biasa,
+      # supaya tidak ada isu permission lintas-container saat push
+      - name: Kumpulkan semua SVG ke folder dist
+        run: |
+          mkdir -p dist
+          cp dist-snake/*.svg dist/
 
       # Push SEKALI setelah semua file kekumpul di dist/, biar gak saling overwrite
       - name: Push semua hasil ke branch output
