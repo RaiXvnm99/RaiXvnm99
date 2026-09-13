@@ -22,53 +22,64 @@ Gue terbuka buat freelance, remote work, atau sekedar ngobrol soal project. Kala
 
 ### Yang Gue Pakai Sehari-hari
 
-**Frontend**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
-
-**Backend**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-**Database**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-</p>
-
-**Tools dan DevOps**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
+<table align="center" width="100%">
+<tr>
+<td align="center" colspan="7" width="100%"><b>Frontend</b></td>
+</tr>
+<tr>
+<td align="center" width="14%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" /><br><sub><b>HTML5</b></sub></td>
+<td align="center" width="14%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" /><br><sub><b>CSS3</b></sub></td>
+<td align="center" width="14%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" /><br><sub><b>JavaScript</b></sub></td>
+<td align="center" width="14%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" /><br><sub><b>TypeScript</b></sub></td>
+<td align="center" width="14%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" /><br><sub><b>React</b></sub></td>
+<td align="center" width="14%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" /><br><sub><b>Next.js</b></sub></td>
+<td align="center" width="14%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" /><br><sub><b>Tailwind</b></sub></td>
+</tr>
+<tr>
+<td align="center" colspan="7" width="100%"><b>Backend</b></td>
+</tr>
+<tr>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" /><br><sub><b>Node.js</b></sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" /><br><sub><b>Express</b></sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" /><br><sub><b>Python</b></sub></td>
+</tr>
+<tr>
+<td align="center" colspan="7" width="100%"><b>Database</b></td>
+</tr>
+<tr>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" /><br><sub><b>PostgreSQL</b></sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" /><br><sub><b>MongoDB</b></sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="48" height="48" /><br><sub><b>Supabase</b></sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="48" height="48" /><br><sub><b>Redis</b></sub></td>
+</tr>
+<tr>
+<td align="center" colspan="7" width="100%"><b>Tools dan DevOps</b></td>
+</tr>
+<tr>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" /><br><sub><b>Docker</b></sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" /><br><sub><b>Git</b></sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" /><br><sub><b>GitHub</b></sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="48" height="48" /><br><sub><b>Vercel</b></sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" /><br><sub><b>AWS</b></sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="48" height="48" /><br><sub><b>Nginx</b></sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" /><br><sub><b>Linux</b></sub></td>
+</tr>
+</table>
 
 ---
 
-### Kontribusi (Snake Animation)
+### Kontribusi (Game)
+
+**Pac-Man**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RaiXvnm99/RaiXvnm99/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/RaiXvnm99/RaiXvnm99/output/pacman-contribution-graph.svg" alt="Pacman Animation" />
+</p>
+
+**Snake**
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RaiXvnm99/RaiXvnm99/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 ---
@@ -78,17 +89,20 @@ Gue terbuka buat freelance, remote work, atau sekedar ngobrol soal project. Kala
 Bisa lewat salah satu di bawah ini. Gue biasanya balas cepat.
 
 <p align="center">
-  <a href="https://instagram.com/oxyx_09">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://instagram.com/oxyx_09" title="Instagram">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="44" height="44" alt="Instagram" />
   </a>
-  <a href="https://tiktok.com/@xvnm__">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  &nbsp;&nbsp;
+  <a href="https://tiktok.com/@xvnm__" title="TikTok">
+    <img src="https://cdn.simpleicons.org/tiktok/FFFFFF" width="44" height="44" alt="TikTok" />
   </a>
-  <a href="mailto:kg390396@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  &nbsp;&nbsp;
+  <a href="mailto:kg390396@gmail.com" title="Gmail">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="44" height="44" alt="Gmail" />
   </a>
-  <a href="https://wa.me/6283822844100">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  &nbsp;&nbsp;
+  <a href="https://wa.me/6283822844100" title="WhatsApp">
+    <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="44" height="44" alt="WhatsApp" />
   </a>
 </p>
 
