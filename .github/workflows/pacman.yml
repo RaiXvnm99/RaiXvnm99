@@ -1,20 +1,29 @@
-name: Generate Pacman
+name: Generate Pac-Man Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    # Jalan tiap hari jam 00:00 UTC (jam 07:00 WIB)
+    - cron: '0 0 * * *'
+  workflow_dispatch: {} # bisa di-trigger manual dari tab Actions
 
 jobs:
-  build:
+  generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     steps:
-      - uses: actions/checkout@v3
-      - uses: czl9707/pacman-contribution-graph@main
+      - name: Generate Pac-Man SVG (light & dark otomatis)
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: RaiXvnm99
-          outputs: dist/pacman-contribution-graph.svg
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+          games: 'pacman'
+          # opsional: 'conservative' / 'aggressive' / 'opportunistic' (default)
+          player_style: 'opportunistic'
+          hide_month_labels: 'false'
+
+      - name: Push hasil ke branch output
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
