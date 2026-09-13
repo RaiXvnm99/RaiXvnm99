@@ -83,7 +83,7 @@ Gue terbuka buat freelance, remote work, atau sekedar ngobrol soal project. Kala
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=RaiXvnm99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&card_width=440&cache_seconds=1800" height="165" alt="GitHub Stats" />
-<img src="https://streak-stats.demolab.com/?user=RaiXvnm99&theme=tokyonight&hide_border=true&card_width=440" height="165" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.vercel.app/?user=RaiXvnm99&theme=tokyonight&hide_border=true&card_width=440" height="165" alt="GitHub Streak" />
 
 </div>
 
@@ -135,18 +135,14 @@ Gue terbuka buat freelance, remote work, atau sekedar ngobrol soal project. Kala
 
 <div align="center">
 
-<a href="https://instagram.com/oxyx_09" style="text-decoration:none;">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-<a href="https://tiktok.com/@xvnm__" style="text-decoration:none;">
-  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
-</a>
-<a href="mailto:kg390396@gmail.com" style="text-decoration:none;">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-<a href="https://wa.me/6283822844100" style="text-decoration:none;">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-</a>
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td><a href="https://instagram.com/oxyx_09"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a></td>
+<td><a href="https://tiktok.com/@xvnm__"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a></td>
+<td><a href="mailto:kg390396@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a></td>
+<td><a href="https://wa.me/6283822844100"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a></td>
+</tr>
+</table>
 
 </div>
 
