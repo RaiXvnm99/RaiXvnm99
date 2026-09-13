@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: abhisheknaiidu/pacman-contribution-graph@main
+      - uses: czl9707/pacman-contribution-graph@main
         with:
           github_user_name: RaiXvnm99
           outputs: dist/pacman-contribution-graph.svg
