@@ -82,8 +82,11 @@ Gue terbuka buat freelance, remote work, atau sekedar ngobrol soal project. Kala
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RaiXvnm99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&card_width=440&cache_seconds=1800" height="165" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.vercel.app/?user=RaiXvnm99&theme=tokyonight&hide_border=true&card_width=440" height="165" alt="GitHub Streak" />
+<img src="https://img.shields.io/github/followers/RaiXvnm99?label=Followers&style=for-the-badge&color=6366F1&labelColor=161B22" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/RaiXvnm99&label=Public%20Repos&query=$.public_repos&style=for-the-badge&color=36BCF7&labelColor=161B22" />
+<br/>
+<img src="https://img.shields.io/github/stars/RaiXvnm99?affiliations=OWNER&style=for-the-badge&color=F7B93E&labelColor=161B22&label=Total%20Stars" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/RaiXvnm99&label=Member%20Since&query=$.created_at&style=for-the-badge&color=22C55E&labelColor=161B22" />
 
 </div>
 
